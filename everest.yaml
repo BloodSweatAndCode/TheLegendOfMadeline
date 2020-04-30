@@ -1,0 +1,5 @@
+- Name: The Legend Of Madeline
+  Version: 0.0.1
+  Dependencies:
+    - Name: Everest
+      Version: 1.0.0

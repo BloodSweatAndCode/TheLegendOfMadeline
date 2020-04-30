@@ -1,0 +1,14 @@
+BloodSweatAndCode_TheLegendOfMadeline= The Legend of Madeline
+
+BloodSweatAndCode_TheLegendOfMadeline_TheLegendOfMadeline= Welcome To Hyrule
+
+POEM_BloodSweatAndCode_TheLegendOfMadeline_TheLegendOfMadeline_A= It Takes Courage
+
+        HYRULE=
+                -- WELCOME TO HYRULE --
+                Only true warriors can conquer
+                Ganon's challenges. Do you have
+                what it takes Madeline?
+
+        DANGEROUS=
+                It's dangerous to go alone! Take this.
