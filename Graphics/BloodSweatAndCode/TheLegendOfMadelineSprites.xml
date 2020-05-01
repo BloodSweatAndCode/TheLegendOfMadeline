@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!--
 <Sprites>
-	<triforce path="objects/TheLegendOfMadeline/triforce/">
+	<!-- <triforce path="objects/TheLegendOfMadeline/triforce/">
 		<Origin x="8" y="8"/>
 		<Loop id="idle" path="idle" frames="0" />
 		<Loop id="spin" path="" frames="0*10,1-13" delay="0.1"/>
 		<Loop id="fastspin" path="" delay="0.1"/>
-	</triforce>
-</Sprites> -->
+	</triforce> -->
+</Sprites>
